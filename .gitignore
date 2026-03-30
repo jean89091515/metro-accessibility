@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Data (raw/intermediate - not tracked)
+*.tif
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output
+output/
+*.png
+*.pdf
+!data/figshare_deposit/*.csv
