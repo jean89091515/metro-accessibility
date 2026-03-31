@@ -8,7 +8,7 @@ have been deposited in Figshare (https://doi.org/10.6084/m9.figshare.31888402).
 This dataset includes city-year summary statistics (mean, median,
 standard deviation, Gini coefficient, station type proportions) for all
 44 cities across 2000–2025. Station-level accessibility data are available
-from the corresponding author upon reasonable request. WorldPop population
+from the corresponding author upon reasonable request(wljean@126.com). WorldPop population
 data are available at https://www.worldpop.org/. Metro station timeline
 data are from the China Public Transport Operation Network Dataset
 (CPTOND-2025; Wang et al., 2026).
