@@ -169,4 +169,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ## Contact
 
 - **Corresponding author:** Yu Liu ([yuliugis@pku.edu.cn](mailto:yuliugis@pku.edu.cn))
-- **Data/code inquiries:** Liang Wang
+- **Data/code inquiries:** Liang Wang([wljean@126.com](mailto:wljean@126.com))
